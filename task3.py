@@ -1,5 +1,3 @@
-import s
-
 # Testing flag - will be set by test
 TESTING = True
 item = None
