@@ -1,4 +1,3 @@
-import s
 # Allowance & Chore Tracker
 
 # Given variables
