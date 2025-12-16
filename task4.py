@@ -45,7 +45,7 @@ if lives:
 # Snippet 8:
 price = 15.99
 quantity = 2
-total = price * quanty
+total = price * quantity
 print(f"Total: ${total}")
 
 # Snippet 9:
