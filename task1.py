@@ -1,4 +1,4 @@
-import s
+
 people = 4  # friends who went trick-or-treating
 bg1 = 37
 bg2 = 22
